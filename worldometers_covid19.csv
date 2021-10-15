@@ -1,4 +1,4 @@
-﻿Country,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,New Recovered,Active Cases,"Serious, Critical",Tot Cases/1M pop,Deaths/1M pop,Total Tests,Tests/1M pop,Population
+﻿Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,NewRecovered,ActiveCases,"Serious, Critical",TotalCases/1Mpop,Deaths/1Mpop,TotalTests,Tests/1Mpop,Population
 USA,"45,135,620",,"732,477",,"34,577,516",,"9,825,627","17,497","135,354","2,197","656,553,737","1,968,891","333,463,677"
 India,"33,935,309",974,"450,408",,"33,248,291","7,588","236,610","8,944","24,288",322,"580,043,190","415,147","1,397,198,247"
 Brazil,"21,550,730",,"600,493",,"20,665,273",,"284,964","8,318","100,481","2,800","63,776,166","297,360","214,474,907"
